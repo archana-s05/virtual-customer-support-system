@@ -1,3 +1,5 @@
+The GitHub repository https://github.com/archana-s05/virtual-customer-support-system/edit/main/README.md hosts a Python-based application designed to facilitate voice-based note-taking and memo management.
+
 Project Overview:
 The Virtual Customer Support System is an Al-driven platform designed to automate customer service interactions, improve response efficiency, and enhance customer satisfaction. The system acts as a 24/7 support assistant capable of handling a wide range of customer queries through text-based chat, email, or voice interfaces.
 It integrates technologies such as Natural Language Processing (NLP), machine learning, and database systems to understand user queries, provide accurate responses, and escalate complex issues to human agents when necessary. The system can be deployed across various industries, including e-commerce, finan telecom.
